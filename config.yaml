@@ -1,7 +1,7 @@
 server: # 服务器元数据
   name: YA_MCPServer_Work
   name_zh: YA MCP 作业
-  author: 韩轩,费郁诚
+  author: HanXuan,FeiYucheng
   description: not finished yet
   description_zh: 尚未完成
   version: 0.1.0
