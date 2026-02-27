@@ -2,8 +2,8 @@ server: # 服务器元数据
   name: YA_MCPServer_Work
   name_zh: YA MCP 作业
   author: HanXuan,FeiYucheng
-  description: not finished yet
-  description_zh: 尚未完成
+  description: AI-powered product classification MCP server with ensemble ML algorithms (SVM, Naive Bayes, Random Forest), supporting intelligent algorithm selection, data preprocessing, and model performance evaluation
+  description_zh: 基于机器学习的商品分类MCP服务器，集成SVM、朴素贝叶斯、随机森林等算法，支持智能算法推荐、数据预处理和模型性能评估
   version: 0.1.0
 
 transport: # 服务器启动方式配置
